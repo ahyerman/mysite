@@ -21,12 +21,13 @@ Relavent Coursework:
 &nbsp;&nbsp;&nbsp;Worked under Dr. Chesney developing software with a focus in adaptive technologies  
 &nbsp;&nbsp;&nbsp;Maintained and further developed ICU-Diary  
 &nbsp;&nbsp;&nbsp;Pitched application to several national organizations  
-**Universirt of Michigan**, *Instructional Aide* <span style="float:right"> September, 2015 - December, 2015 </span>  
+**University of Michigan**, *Instructional Aide* <span style="float:right"> September, 2015 - December, 2015 </span>  
 &nbsp;&nbsp;&nbsp;Facilitated lab providing students intro to hardware design, managed student help queue  
 &nbsp;&nbsp;&nbsp;Read various code bases to quickly assist students in debugging  
 &nbsp;&nbsp;&nbsp;Taught students modular design practices in verilog  
 **Mott Family Network**, *Intern* <span style="float:right"> November, 2014 - April, 2016 </span>  
-&nbsp;&nbsp;&nbsp;TBD
+&nbsp;&nbsp;&nbsp;Worked with Ronald McDonald House to manage and update website  
+&nbsp;&nbsp;&nbsp;Oversaw successful deployment of 250+ Xbox systems for pediatric gaming  
 
 # Projects  
 **SmartShower**  
@@ -41,9 +42,12 @@ Relavent Coursework:
 &nbsp;&nbsp;&nbsp;EECS373 project to be completed this semester
 
 # Skills  
-
+Proficient:&nbsp;&nbsp;&nbsp;C/C++, Python, Git  
+Familiar:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HTML/CSS, Verilog, MySql, UNIX  
+Other:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuing private pilots licsense
 
 # Leadership
 Planned and managed hackathon style recruiting event for Feva Research Group  
 Brought together three friends to compete in Mhacks6 and complete SmartShower
 
+- - -
