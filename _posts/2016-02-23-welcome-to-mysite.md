@@ -8,4 +8,4 @@ Hello World! Thanks for checking out mysite.
 
 I'm working on a few posts right now but be sure to check back soon for updates!
 
-In the meantime, check out my resume!
+In the meantime, check out [my resume!](/resume/)
