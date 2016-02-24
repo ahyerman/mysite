@@ -12,7 +12,7 @@ description: >
   Welcome to my site! My name is Albert Yerman. I am a junior studying
   Computer Science Engineering at the University of Michigan. When I'm not
   programming I like to run and ski. Check back to my site for cool updates on
-  tools I use to program! This is a blog for you and a quick 'cheat sheet' for me.
+  tools I use to program! Hopefully it will save you some time!  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
