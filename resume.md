@@ -31,7 +31,7 @@ Relavent Coursework:
 
 # Projects  
 **DevTalk**
-&nbsp;&nbsp;&nbsp;More to come!
+&nbsp;&nbsp;&nbsp;More to come!  
 **SmartShower**  
 &nbsp;&nbsp;&nbsp;Web app leveraging Google Calendar API to merge housemates’ shower schedule  
 &nbsp;&nbsp;&nbsp;Optimized house showering schedule using a greedy algorithm in python  
